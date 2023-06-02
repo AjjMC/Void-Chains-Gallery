@@ -1,6 +1,6 @@
 # Gallery
 
-> This is a brief gallery of some of the game's features. *GIFs may take a few seconds to load.*
+This is a brief gallery of some of the game's features. *GIFs may take a few seconds to load.*
 
 ## Gameplay
 
