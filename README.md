@@ -41,33 +41,3 @@ This is a brief gallery of some of the game's features. *GIFs may take a few sec
 <p align = "center">
   <img src="game_menu.gif" width="800">
 </p>
-
-### The main menu
-
-<p align = "center">
-  <img src="main_menu.png" width="600">
-</p>
-
-### The settings menu
-
-<p align = "center">
-  <img src="settings_menu.png" width="600">
-</p>
-
-### The general settings menu
-
-<p align = "center">
-  <img src="general_settings_menu.png" width="600">
-</p>
-
-### The anchor settings menu
-
-<p align = "center">
-  <img src="anchor_settings_menu.png" width="600">
-</p>
-
-### The powerup settings menu
-
-<p align = "center">
-  <img src="powerup_settings_menu.png" width="600">
-</p>
