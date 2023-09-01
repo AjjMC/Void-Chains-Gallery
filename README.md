@@ -1,6 +1,6 @@
-# Gallery
+# Void Chains Gallery
 
-This is a brief gallery of some of the game's features. *GIFs may take a few seconds to load.*
+This is a brief gallery of screenshots and GIFs showcasing some features and functionalities. Further updates have brought changes to some of the content shown here. *GIFs may take a few seconds to load.*
 
 ## Gameplay
 
